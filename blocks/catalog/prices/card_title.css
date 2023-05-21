@@ -1,0 +1,12 @@
+.card_title {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 150%;
+  color: #414141;
+}
+
+.card_title:hover {
+  color: #ff6633;
+}

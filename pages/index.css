@@ -58,3 +58,14 @@
 /* Footer */
 @import '../blocks/footer/footer.css';
 @import '../blocks/footer/__container/footer__container.css';
+/* Catalog */
+@import '../blocks/catalog/card/card.css';
+@import '../blocks/catalog/card/card_top.css';
+@import '../blocks/catalog/photo/card_image.css';
+@import '../blocks/catalog/photo/card_label.css';
+@import '../blocks/catalog/photo/card_bottom.css';
+@import '../blocks/catalog/prices/card_prices.css';
+@import '../blocks/catalog/prices/card_price.css';
+@import '../blocks/catalog/prices/card_title.css';
+@import '../blocks/catalog/prices/card_add.css';
+@import '../blocks/catalog/card/cards.css';
