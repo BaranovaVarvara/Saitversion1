@@ -3,3 +3,10 @@
   height: 370px;
   object-fit: cover;
 }
+@media (max-width:768px){
+  .wood__image{
+  width: 100%;
+  max-width: 500px;
+  min-width: 500px;
+  }
+}
