@@ -27,3 +27,12 @@
 
   }
 }
+@media (max-width:360px){
+  .relaunch__image{
+  width: 100%;
+  max-width: 300px;
+  min-width: 300px;
+  height: 250px;
+
+  }
+}

@@ -16,3 +16,8 @@
     max-width: calc(270px + 40px *2);
   }
 }
+@media (max-width:360px){
+  .footer__container{
+    max-width: calc(220px + 40px *2);
+  }
+}

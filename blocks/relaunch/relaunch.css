@@ -26,3 +26,11 @@
   margin-top: 80px;
   }
 }
+@media (max-width:360px){
+  .relaunch{
+  width: 100%;
+  max-width: 300px;
+  min-width: 300px;
+  margin-top: 80px;
+  }
+}

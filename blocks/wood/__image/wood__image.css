@@ -24,3 +24,11 @@
   min-width: 300px;
   }
 }
+@media (max-width:360px){
+  .wood__image{
+  width: 100%;
+  max-width: 300px;
+  min-width: 300px;
+  height: 250px;
+  }
+}
