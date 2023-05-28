@@ -43,7 +43,7 @@
 @import '../blocks/about/about.css';
 @import '../blocks/about/__container/about__container.css';
 @import '../blocks/about/__title/about__title.css';
-/* Otium */
+/* Wood */
 @import '../blocks/wood/wood.css';
 @import '../blocks/wood/__title/wood__title.css';
 @import '../blocks/wood/__container/wood__container.css';
@@ -69,4 +69,5 @@
 @import '../blocks/catalog/prices/card_title.css';
 @import '../blocks/catalog/prices/card_add.css';
 @import '../blocks/catalog/card/cards.css';
+
 

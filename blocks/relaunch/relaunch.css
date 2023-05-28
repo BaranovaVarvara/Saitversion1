@@ -5,16 +5,24 @@
 @media (max-width:1024px){
   .relaunch{
   width: 100%;
-  max-width: 580px;
-  min-width: 580px;
+  max-width: 660px;
+  min-width: 660px;
   margin-top: 80px;
   }
 }
 @media (max-width:768px){
   .relaunch{
   width: 100%;
-  max-width: 500px;
-  min-width: 500px;
+  max-width: 350px;
+  min-width: 350px;
+  margin-top: 80px;
+  }
+}
+@media (max-width:480px){
+  .relaunch{
+  width: 100%;
+  max-width: 300px;
+  min-width: 300px;
   margin-top: 80px;
   }
 }

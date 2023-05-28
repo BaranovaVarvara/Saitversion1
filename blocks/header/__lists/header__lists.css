@@ -2,9 +2,15 @@
   padding: 25px;
   margin: 0 0 0 75px;
   width: 100%;
-  max-width: 565px;
-  min-width: 565px;
+  max-width: 500px;
+  min-width: 500px;
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+@media (max-width: 768px){
+  .header__lists{
+    max-width: 350px;
+    min-width: 350px;
+  }
 }

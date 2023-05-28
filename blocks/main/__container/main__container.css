@@ -9,6 +9,11 @@
 }
 @media (max-width:768px){
   .main__container{
-    max-width: calc(420px + 40px * 2);
+    max-width: calc(270px + 40px * 2);
+  }
+}
+@media (max-width:480px){
+  .main__container{
+    max-width: calc(220px + 40px * 2);
   }
 }

@@ -3,10 +3,24 @@
   height: 370px;
   object-fit: cover;
 }
+@media (max-width:1024px){
+  .wood__image{
+  width: 100%;
+  max-width: 660px;
+  min-width: 660px;
+  }
+}
 @media (max-width:768px){
   .wood__image{
   width: 100%;
-  max-width: 500px;
-  min-width: 500px;
+  max-width: 350px;
+  min-width: 350px;
+  }
+}
+@media (max-width:480px){
+  .wood__image{
+  width: 100%;
+  max-width: 300px;
+  min-width: 300px;
   }
 }

@@ -7,7 +7,7 @@
 
 @media screen and (max-width: 1024px){
   .about__container{
-    max-width: 580px;
+    max-width: 660px;
     flex-direction: column;
     justify-content: center;
   }
@@ -15,7 +15,14 @@
 
 @media screen and (max-width: 768px){
   .about__container{
-    max-width: 500px;
+    max-width: 350px;
+    flex-direction: column;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 480px){
+  .about__container{
+    max-width: 300px;
     flex-direction: column;
     justify-content: center;
   }

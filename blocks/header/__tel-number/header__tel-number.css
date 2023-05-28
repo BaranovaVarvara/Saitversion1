@@ -3,3 +3,8 @@
   line-height: 26px;
   font-weight: bolder;
 }
+@media (max-width:1450px){
+  .header__tel-number{
+    display:none;
+  }
+}

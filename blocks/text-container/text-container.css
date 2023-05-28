@@ -3,3 +3,10 @@
   max-width: 580px;
   min-height: 226px;
 }
+
+@media (max-width:1024px){
+  .text-container{
+  width: 100%;
+  max-width: 660px;
+  }
+}
