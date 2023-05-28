@@ -1,7 +1,12 @@
 .header__link {
-  font-size: 14px;
+  font-size: 19px;
   line-height: 21px;
   letter-spacing: 0.3em;
   text-transform: uppercase;
   color: var(--white);
+}
+@media (max-width:360px){
+  .header__link{
+    font-size: 15px;
+  }
 }

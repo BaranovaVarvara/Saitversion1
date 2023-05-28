@@ -1,1 +1,8 @@
-.logo__image{}
+.logo__image{
+
+}
+@media (max-width:360px){
+  .logo__image{
+    width: 55px;
+  }
+}
