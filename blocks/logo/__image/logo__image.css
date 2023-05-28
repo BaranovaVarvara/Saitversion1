@@ -1,7 +1,7 @@
 .logo__image{
 
 }
-@media (max-width:360px){
+@media (max-width:500px){
   .logo__image{
     width: 55px;
   }

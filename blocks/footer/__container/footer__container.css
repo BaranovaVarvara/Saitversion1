@@ -6,7 +6,7 @@
   align-items: center;
   flex-direction: row-reverse;
 }
-@media (max-width:1024px){
+@media (max-width:1200px){
   .footer__container{
     max-width: calc(580px + 40px *2);
   }
@@ -16,7 +16,7 @@
     max-width: calc(270px + 40px *2);
   }
 }
-@media (max-width:360px){
+@media (max-width:500px){
   .footer__container{
     max-width: calc(220px + 40px *2);
   }

@@ -82,10 +82,17 @@
   </main>
   <footer class="footer">
     <div class="container footer__container">
-      <p class="footer__copyright"><input type="date"></p>
+      <p class="footer__copyright">
+        <!--#include file="footer.html"-->
+
+        <!--#config timefmt= "Год создания сайта: 2020; Настоящее время: %T"-->
+        <p id = "time"><!--#echo var="DATE_LOCAl"--></p></p>
 
       <p class="footer__author">Baranova Varvara Michailovna</p>
+
     </div>
+<!--#echo var="REMOTE_ADDR" -->
+
   </footer>
 
 </body>

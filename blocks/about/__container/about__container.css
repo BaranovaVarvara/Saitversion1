@@ -5,7 +5,7 @@
 }
 
 
-@media screen and (max-width: 1024px){
+@media screen and (max-width: 1200px){
   .about__container{
     max-width: 660px;
     flex-direction: column;

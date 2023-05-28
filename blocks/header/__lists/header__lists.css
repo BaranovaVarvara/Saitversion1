@@ -14,7 +14,7 @@
     min-width: 350px;
   }
 }
-@media (max-width: 360px){
+@media (max-width: 500px){
   .header__lists{
     max-width: 250px;
     min-width: 250px;

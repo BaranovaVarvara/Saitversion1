@@ -3,7 +3,7 @@
   height: 370px;
   object-fit: cover;
 }
-@media (max-width:1024px){
+@media (max-width:1200px){
   .relaunch__image{
   width: 100%;
   max-width: 660px;
@@ -27,7 +27,7 @@
 
   }
 }
-@media (max-width:360px){
+@media (max-width:500px){
   .relaunch__image{
   width: 100%;
   max-width: 300px;

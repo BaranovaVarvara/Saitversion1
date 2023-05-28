@@ -3,7 +3,7 @@
   max-width: 580px;
   min-width: 580px;
 }
-@media (max-width:1024px){
+@media (max-width:1200px){
   .wood{
   width: 100%;
   max-width: 660px;
@@ -27,7 +27,7 @@
   margin-top: 80px;
   }
 }
-@media (max-width:360px){
+@media (max-width:500px){
   .wood{
   width: 100%;
   max-width: 300px;
