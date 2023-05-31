@@ -23,13 +23,13 @@
           </a>
           <ul class="lists header__lists">
             <li class="list">
-              <a class="link header__link" href="index.html">Home</a>
+              <a class="link header__link" href="index.shtml">Home</a>
             </li>
             <li class="list">
-              <a class="link header__link" href="about.html">About</a>
+              <a class="link header__link" href="about.shtml">About</a>
             </li>
             <li class="list">
-              <a class="link header__link" href="catalog.html">Catalog</a>
+              <a class="link header__link" href="catalog.shtml">Catalog</a>
             </li>
           </ul>
         </div>
@@ -65,17 +65,17 @@
         <div class="card">
           <div class="card_top">
             <a href="#" class="card_image">
-              <img src="./images/product/oak.jpg" alt="Oak" />
+              <img src="./images/product/Doska_bereza_2.jpg" alt="Birch" />
             </a>
             <div class="card_label">-10%</div>
           </div>
           <div class="card_bottom">
             <div class="card_prices">
-              <div class="card_price card_price--discount">135 000</div>
-              <div class="card_price card_price--common">150 000</div>
+              <div class="card_price card_price--discount">105 000</div>
+              <div class="card_price card_price--common">115 500</div>
             </div>
             <a href="#" class="card_title">
-              Engineering polished board of treated Oak, solid material.
+              Birch wood has high strength, resists shock loads well, splits with difficulty.
             </a>
             <button class="card_add">В корзину</button>
           </div>
@@ -84,17 +84,17 @@
         <div class="card">
           <div class="card_top">
             <a href="#" class="card_image">
-              <img src="./images/product/oak.jpg" alt="Oak" />
+              <img src="./images/product/вяз.jpg" alt="Elm" />
             </a>
             <div class="card_label">-10%</div>
           </div>
           <div class="card_bottom">
             <div class="card_prices">
-              <div class="card_price card_price--discount">135 000</div>
-              <div class="card_price card_price--common">150 000</div>
+              <div class="card_price card_price--discount">115 500</div>
+              <div class="card_price card_price--common">135 000</div>
             </div>
             <a href="#" class="card_title">
-              Engineering polished board of treated Oak, solid material.
+              Elm's been considered an important. Arcs, shafts made of it're of the highest quality.
             </a>
             <button class="card_add">В корзину</button>
           </div>
@@ -103,17 +103,17 @@
         <div class="card">
           <div class="card_top">
             <a href="#" class="card_image">
-              <img src="./images/product/oak.jpg" alt="Oak" />
+              <img src="./images/product/orex.jpg" alt="Orex" />
             </a>
             <div class="card_label">-10%</div>
           </div>
           <div class="card_bottom">
             <div class="card_prices">
-              <div class="card_price card_price--discount">135 000</div>
-              <div class="card_price card_price--common">150 000</div>
+              <div class="card_price card_price--discount">108 000</div>
+              <div class="card_price card_price--common">120 000</div>
             </div>
             <a href="#" class="card_title">
-              Engineering polished board of treated Oak, solid material.
+              According to its aesthetic and strength characteristics, walnut surpasses oak wood.
             </a>
             <button class="card_add">В корзину</button>
           </div>
@@ -122,17 +122,17 @@
         <div class="card">
           <div class="card_top">
             <a href="#" class="card_image">
-              <img src="./images/product/oak.jpg" alt="Oak" />
+              <img src="./images/product/buk.jpg" alt="Beech" />
             </a>
             <div class="card_label">-10%</div>
           </div>
           <div class="card_bottom">
             <div class="card_prices">
-              <div class="card_price card_price--discount">135 000</div>
-              <div class="card_price card_price--common">150 000</div>
+              <div class="card_price card_price--discount">115 000</div>
+              <div class="card_price card_price--common">128 000</div>
             </div>
             <a href="#" class="card_title">
-              Engineering polished board of treated Oak, solid material.
+              Beech is a beech wood, strong with a reddish tinge.
             </a>
             <button class="card_add">В корзину</button>
           </div>
@@ -141,17 +141,17 @@
         <div class="card">
           <div class="card_top">
             <a href="#" class="card_image">
-              <img src="./images/product/oak.jpg" alt="Oak" />
+              <img src="./images/product/elb.jpg" alt="Spruce" />
             </a>
             <div class="card_label">-10%</div>
           </div>
           <div class="card_bottom">
             <div class="card_prices">
-              <div class="card_price card_price--discount">135 000</div>
-              <div class="card_price card_price--common">150 000</div>
+              <div class="card_price card_price--discount">148 500</div>
+              <div class="card_price card_price--common">165 000</div>
             </div>
             <a href="#" class="card_title">
-              Engineering polished board of treated Oak, solid material.
+              Spruce is soft material has a light yellowish-brown color, a thin and even texture.
             </a>
             <button class="card_add">В корзину</button>
           </div>
@@ -160,17 +160,17 @@
         <div class="card">
           <div class="card_top">
             <a href="#" class="card_image">
-              <img src="./images/product/oak.jpg" alt="Oak" />
+              <img src="./images/product/lipa.png" alt="Linden" />
             </a>
             <div class="card_label">-10%</div>
           </div>
           <div class="card_bottom">
             <div class="card_prices">
-              <div class="card_price card_price--discount">135 000</div>
-              <div class="card_price card_price--common">150 000</div>
+              <div class="card_price card_price--discount">72 000</div>
+              <div class="card_price card_price--common">80 000</div>
             </div>
             <a href="#" class="card_title">
-              Engineering polished board of treated Oak, solid material.
+              It is characterized by strength, lightness. Drying, the linden becomes hard and durable.
             </a>
             <button class="card_add">В корзину</button>
           </div>
@@ -179,17 +179,17 @@
         <div class="card">
           <div class="card_top">
             <a href="#" class="card_image">
-              <img src="./images/product/oak.jpg" alt="Oak" />
+              <img src="./images/product/sosna.jpg" alt="Pine" />
             </a>
             <div class="card_label">-10%</div>
           </div>
           <div class="card_bottom">
             <div class="card_prices">
-              <div class="card_price card_price--discount">135 000</div>
-              <div class="card_price card_price--common">150 000</div>
+              <div class="card_price card_price--discount">153 000</div>
+              <div class="card_price card_price--common">170 000</div>
             </div>
             <a href="#" class="card_title">
-              Engineering polished board of treated Oak, solid material.
+              Pine contains significantly fewer knots. It has a striped texture.
             </a>
             <button class="card_add">В корзину</button>
           </div>
@@ -199,7 +199,15 @@
   </main>
   <footer class="footer">
     <div class="container footer__container">
-      <p class="footer__copyright">2023</p>
+        <!--#config timefmt="%Y"-->
+
+        <!--#set var= "currentYear" value="$DATE_LOCAL"-->
+        <p id = "time">&copy;2022 - <!--#echo var="currentYear"--></p>
+
       <p class="footer__author">Baranova Varvara Michailovna</p>
+
+    </div>
+
+  </footer>
 </body>
 </html>

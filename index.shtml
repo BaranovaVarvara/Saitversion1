@@ -10,7 +10,7 @@
   <meta name="keywords" content="Wooden Fair, Festival of tree">
   <link rel="stylesheet" href="./pages/index.css">
   <link rel="icon" href="./images/header/logo.ico">
-  <title>About The Wooden Fair</title>
+  <title>Wooden Fair</title>
 </head>
 
 <body class="page">
@@ -23,15 +23,14 @@
           </a>
           <ul class="lists header__lists">
             <li class="list">
-              <a class="link header__link" href="index.html">Home</a>
+              <a class="link header__link" href="index.shtml">Home</a>
             </li>
             <li class="list">
-              <a class="link header__link" href="about.html">About</a>
+              <a class="link header__link" href="about.shtml">About</a>
             </li>
             <li class="list">
-              <a class="link header__link" href="catalog.html">Catalog</a>
+              <a class="link header__link" href="catalog.shtml">Catalog</a>
             </li>
-
           </ul>
         </div>
         <a class="link header__link header__tel-number" href="tel:+7925346523">+7 925 346-56-23</a>
@@ -41,6 +40,7 @@
         <p class="text header__text">Selecting a tree for <br> processing</p>
       </div>
     </div>
+
   </header>
   <main class="main">
     <div class="container main__container">
@@ -48,28 +48,23 @@
         <h2 class="title about__title">About the Wooden Fair</h2>
         <div class="about__container">
           <article class="wood">
-            <h3 class="title wood__title">Address and Contact</h3>
+            <h3 class="title wood__title">Creating a company</h3>
             <div class="text-container">
-              <p class="text wood__text">The Wooden Fair is located at 14k3 Brever Street, London.
-                Buses run from Heathrow to the city, which cost 6 pounds. According to the time,
-                the bus ride will be approximately 1 hour. You can also use the local subway,
-                spend about 1 hour on the road and pay 5 pounds.There is another option to get to London by train.
-                The train will cost 25 pounds, but the road will not be long, this type of transport will take you
-                to the place in 15 minutes. For tourists who like to move comfortably and not carry suitcases,
-                we suggest taking a taxi to the hotel or to the center of London. A taxi will take you in 40 minutes
-                and will cost from 90 pounds.</p>
-                <p class="text wood__text">
-                  Phone:+7 925 346-56-23 </p>
-                  <p class="text wood__text">
-                    Mail: Wooden_Fair@gmail.com </p>
+              <p class="text wood__text">At&nbsp;the moment, the trade and production company &laquo;Fair
+                of&nbsp;Wood&raquo; has its own sawmill, which makes it&nbsp;possible to&nbsp;produce large volumes
+                of&nbsp;timber of&nbsp;arbitrary cross-sections. Only a&nbsp;high-quality sawmill made of&nbsp;live pine
+                and spruce is&nbsp;used as&nbsp;raw materials for timber and edged boards (dry forest infected with
+                wood-destroying insects and fungi is&nbsp;not allowed in&nbsp;woodworking). Transparent work through the
+                USAIS forest accounting system allows&nbsp;us to&nbsp;work both in&nbsp;the retail market and with large
+                wholesale buyers working even on&nbsp;state orders and requiring strict documentary reporting.</p>
             </div>
             <div class="wood__container">
-              <img class="wood__image" src="./images/about/Regent-Street-on-Map-of-London.jpg"
-                alt="Place on the map.">
+              <img class="wood__image" src="./images/wood/img1.png"
+                alt="At the moment, the trade and production company Fair of Wood has its own sawmill.">
             </div>
           </article>
           <article class="relaunch">
-            <h3 class="title relaunch__title">Our partners</h3>
+            <h3 class="title relaunch__title">Materials</h3>
             <div class="text-container">
               <p class="text relaunch__text">In&nbsp;our warehouses you will find a&nbsp;variety of&nbsp;mouldings from
                 proven manufacturers: eurovagonka and lining calm, imitation of&nbsp;a&nbsp;beam or&nbsp;block house
@@ -79,6 +74,7 @@
                 low prices with high quality products.
               </p>
             </div>
+            <img class="relaunch__image" src="./images/relaunch/img2.png" alt="Materials">
           </article>
         </div>
       </section>
@@ -86,8 +82,17 @@
   </main>
   <footer class="footer">
     <div class="container footer__container">
-      <p class="footer__copyright">2023</p>
+        <!--#config timefmt="%Y"-->
+
+        <!--#set var= "currentYear" value="$DATE_LOCAL"-->
+        <p id = "time">&copy;2022 - <!--#echo var="currentYear"--></p>
+
       <p class="footer__author">Baranova Varvara Michailovna</p>
+
+    </div>
+
+  </footer>
+
 </body>
 
 </html>

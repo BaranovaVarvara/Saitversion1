@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Wooden Fair — is a fair aimed at maintaining
+  the interest of the seller and buyer for various types of wood and products made from them.">
+  <meta name="keywords" content="Wooden Fair, Festival of tree">
+  <link rel="stylesheet" href="./pages/index.css">
+  <link rel="icon" href="./images/header/logo.ico">
+  <title>About The Wooden Fair</title>
+</head>
+
+<body class="page">
+  <header class="header">
+    <div class="container header__container">
+      <nav class="nav">
+        <div class="nav__container">
+          <a class="link logo" href="#">
+            <img class="logo__image" src="./images/header/logo.svg" alt="логотип сайта wooden fair">
+          </a>
+          <ul class="lists header__lists">
+            <li class="list">
+              <a class="link header__link" href="index.shtml">Home</a>
+            </li>
+            <li class="list">
+              <a class="link header__link" href="about.shtml">About</a>
+            </li>
+            <li class="list">
+              <a class="link header__link" href="catalog.shtml">Catalog</a>
+            </li>
+
+          </ul>
+        </div>
+        <a class="link header__link header__tel-number" href="tel:+7925346523">+7 925 346-56-23</a>
+      </nav>
+      <div class="header__container-desc">
+        <h1 class="title header__title">Wooden Fair</h1>
+        <p class="text header__text">Selecting a tree for <br> processing</p>
+      </div>
+    </div>
+  </header>
+  <main class="main">
+    <div class="container main__container">
+      <section class="about">
+        <h2 class="title about__title">About the Wooden Fair</h2>
+        <div class="about__container">
+          <article class="wood">
+            <h3 class="title wood__title">Address and Contact</h3>
+            <div class="text-container">
+              <p class="text wood__text">The Wooden Fair is located at 14k3 Brever Street, London.
+                Buses run from Heathrow to the city, which cost 6 pounds. According to the time,
+                the bus ride will be approximately 1 hour. You can also use the local subway,
+                spend about 1 hour on the road and pay 5 pounds.There is another option to get to London by train.
+                The train will cost 25 pounds, but the road will not be long, this type of transport will take you
+                to the place in 15 minutes. </p>
+                <p class="text wood__text"> Phone:+7 925 346-56-23 Mail: Wooden_Fair@gmail.com </p>
+            </div>
+            <div class="wood__container">
+              <img class="wood__image" src="./images/about/Regent-Street-on-Map-of-London.jpg"
+                alt="Place on the map.">
+            </div>
+          </article>
+          <article class="relaunch">
+            <h3 class="title relaunch__title">Our partners</h3>
+            <div class="text-container">
+              <p class="text relaunch__text">Wooden Owners - X.U. Bulat, H.E. Lepton, W.T. Fabric.</p>
+              <p class="text relaunch__text">Helpers and Volunteers- D.U. Maltom, S.U Konsa, V.S. Besite.</p>
+              <p class="text relaunch__text">Administration - V.M. Baranova, I.V. Baranova. </p>
+              <p class="text relaunch__text">Castomers - T.I. Pwerik, H.T. Jest, P.T. Drozd </p>
+              <p class="text relaunch__text">Workers - Z.L. Ayasobaka, P.I. Zdech, G.M. Termot, S.D. Lopton, A.A. Relation </p>
+            </div>
+              <img class="relaunch__image" src="./images/about/20151128pbl6105-Edit-Edit.jpg" alt="Place on the map.">
+          </article>
+        </div>
+      </section>
+    </div>
+  </main>
+  <footer class="footer">
+    <div class="container footer__container">
+        <!--#config timefmt="%Y"-->
+
+        <!--#set var= "currentYear" value="$DATE_LOCAL"-->
+        <p id = "time">&copy;2022 - <!--#echo var="currentYear"--></p>
+
+      <p class="footer__author">Baranova Varvara Michailovna</p>
+
+    </div>
+
+  </footer>
+</body>
+
+</html>
