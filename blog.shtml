@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Wooden Fair — is a fair aimed at maintaining
+  the interest of the seller and buyer for various types of wood and products made from them.">
+  <meta name="keywords" content="Wooden Fair, Festival of tree">
+  <link rel="stylesheet" href="./pages/index.css">
+  <link rel="icon" href="./images/header/logo.ico">
+  <title>Wooden Fair</title>
+</head>
+
+<body class="page">
+  <header class="header">
+    <div class="container header__container">
+      <nav class="nav">
+        <div class="nav__container">
+          <a class="link logo" href="#">
+            <img class="logo__image" src="./images/header/logo.svg" alt="логотип сайта wooden fair">
+          </a>
+          <ul class="lists header__lists">
+            <li class="list">
+              <a class="link header__link" href="index.shtml">Home</a>
+            </li>
+            <li class="list">
+              <a class="link header__link" href="about.shtml">About</a>
+            </li>
+            <li class="list">
+              <a class="link header__link" href="catalog.shtml">Catalog</a>
+            </li>
+            <li class="list">
+              <a class="link header__link" href="blog.shtml">Comments</a>
+            </li>
+            <li class="list">
+              <a class="link header__link" href="schedule.shtml">Schedule</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+      <div class="header__container-desc">
+        <h1 class="title header__title">Wooden Fair</h1>
+        <p class="text header__text">Selecting a tree for <br> processing</p>
+      </div>
+    </div>
+
+  </header>
+  <main class="main">
+    <div class="main__container">
+      <h3 class="blog__title">Comments</h3>
+      <div class="stcard_container">
+        <div class="stcard">
+          <img alt="image" src="images/blog/1614875187_1-p-fotografiya-na-pasport-art-kartinki-1.jpg" />
+          <div class="stcard_title">M.T. Goldev</div>
+          <p>"I love mahogany products - they are very beautiful and warm to the touch."</p>
+        </div>
+
+        <div class="stcard">
+          <img alt="image" src="images/blog/1646251788_20-uhd-name-p-volosi-na-pasport-devushka-krasivo-foto-23.jpg" />
+          <div class="stcard_title">D.R. Soil</div>
+          <p>"Oak floors are a classic! They are very durable and look great."</p>
+        </div>
+        <div class="stcard">
+          <img alt="image" src="images/blog/17.jpg">
+          <div class="stcard_title">V.N. Metie</div>
+          <p>"Spruce is an excellent choice for cutting firewood. Dry, soft and very easy to handle."</p>
+        </div>
+        <div class="stcard">
+          <img alt="image" src="images/blog/cf0e7f8b2a370c93caa8ab3aaa1b2355.jpg" />
+          <div class="stcard_title">A.S. Scott</div>
+          <p>"I ordered kitchen cabinets made of maple and did not regret it - high quality and beautiful natural color."</p>
+        </div>
+        <div class="stcard">
+          <img alt="image" src="images/blog/foto-na-pas.jpg" />
+          <div class="stcard_title">D. P. Peterson</div>
+          <p>"Pine is my favorite kind of wood for furniture. It is light and inexpensive, but at the same time very durable."</p>
+        </div>
+
+        <div class="stcard">
+          <img alt="image" src="images/blog/IMG_2415_copy-32.jpg" />
+          <div class="stcard_title">M.S. Rousl</div>
+          <p>"Elm products are some kind of miracle things! Such beauty and uniqueness in each instance."</p>
+        </div>
+
+
+      </div>
+
+    </div>
+  </main>
+  <footer class="footer">
+    <div class="container footer__container">
+      <!--#config timefmt="%Y"-->
+
+      <!--#set var= "currentYear" value="$DATE_LOCAL"-->
+      <p id="time">&copy;2022 - <!--#echo var="currentYear"--></p>
+
+      <p class="footer__author">Baranova Varvara Michailovna</p>
+
+    </div>
+
+  </footer>
+</body>
+
+</html>

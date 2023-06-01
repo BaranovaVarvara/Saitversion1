@@ -1,0 +1,8 @@
+.stcard_container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 20px 0;
+    row-gap: 40px;
+    column-gap: 100px;
+}

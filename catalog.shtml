@@ -31,9 +31,14 @@
             <li class="list">
               <a class="link header__link" href="catalog.shtml">Catalog</a>
             </li>
+            <li class="list">
+              <a class="link header__link" href="blog.shtml">Comments</a>
+            </li>
+            <li class="list">
+              <a class="link header__link" href="schedule.shtml">Schedule</a>
+            </li>
           </ul>
         </div>
-        <a class="link header__link header__tel-number" href="tel:+7925346523">+7 925 346-56-23</a>
       </nav>
       <div class="header__container-desc">
         <h1 class="title header__title">Wooden Fair</h1>

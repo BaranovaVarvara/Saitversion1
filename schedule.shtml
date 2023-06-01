@@ -50,36 +50,67 @@
   <main class="main">
     <div class="container main__container">
       <section class="about">
-        <h2 class="title about__title">About the Wooden Fair</h2>
+        <h2 class="title about__title">Schedule</h2>
         <div class="about__container">
           <article class="wood">
-            <h3 class="title wood__title">Creating a company</h3>
+            <h3 class="title relaunch__title">Benefits and Gifts </h3>
             <div class="text-container">
-              <p class="text wood__text">At&nbsp;the moment, the trade and production company &laquo;Fair
-                of&nbsp;Wood&raquo; has its own sawmill, which makes it&nbsp;possible to&nbsp;produce large volumes
-                of&nbsp;timber of&nbsp;arbitrary cross-sections. Only a&nbsp;high-quality sawmill made of&nbsp;live pine
-                and spruce is&nbsp;used as&nbsp;raw materials for timber and edged boards (dry forest infected with
-                wood-destroying insects and fungi is&nbsp;not allowed in&nbsp;woodworking). Transparent work through the
-                USAIS forest accounting system allows&nbsp;us to&nbsp;work both in&nbsp;the retail market and with large
-                wholesale buyers working even on&nbsp;state orders and requiring strict documentary reporting.</p>
-            </div>
-            <div class="wood__container">
-              <img class="wood__image" src="./images/wood/img1.png"
-                alt="At the moment, the trade and production company Fair of Wood has its own sawmill.">
+              <p class="text wood__text">
+                <ul class="benefits">
+                  <li>
+                    Free shipping when buying goods over $ 100,000
+                  </li>
+                  <li>
+                    Discounts on the first purchase of $ 15,000
+                  </li>
+                  <li>
+                    For woodworking companies, a discount on the purchase of oak, spruce and walnut is 15%
+                  </li>
+                  <li>
+                    Free gifts and promo codes for wholesale purchases
+                  </li>
+                  <li>
+                    Return of goods without commission within a month.
+                  </li>
+                  <li>
+                    The ability to select the date and time of delivery.
+                  </li>
+                  <li>
+                    Discounts for regular customers.
+                  </li>
+                  <li>
+                    Providing additional services, such as engraving or customizing the product.
+                  </li>
+                </ul>
             </div>
           </article>
           <article class="relaunch">
-            <h3 class="title relaunch__title">Materials</h3>
+            <h3 class="title relaunch__title">Timetable</h3>
             <div class="text-container">
-              <p class="text relaunch__text">In&nbsp;our warehouses you will find a&nbsp;variety of&nbsp;mouldings from
-                proven manufacturers: eurovagonka and lining calm, imitation of&nbsp;a&nbsp;beam or&nbsp;block house
-                (imitation of&nbsp;a&nbsp;log), straight and beveled plank, massive floor coverings (floor board, deck
-                and decking). There is&nbsp;always a&nbsp;large selection of&nbsp;skirting boards, platbands, interior
-                and exterior corners, box timber, dobory for window and door slopes. And all this at&nbsp;consistently
-                low prices with high quality products.
+              <p class="text relaunch__text">
+
+                <b>Вт, ср, чт</b><br>
+                <br>
+                с 8:00 до 16:00<br>
+                <br>
+                <b>Пятница</b><br>
+                <br>
+                с 8:00 до 18:00 <br>
+                с 5:00 до 12:00 <br>
+                с 18:00 до 23:00 <br>
+                <br>
+                <b>Суббота</b><br>
+                <br>
+                с 12:00 до 18:00 <br>
+                с 9:00 до 16:00 <br>
+                с 9:00 до 17:00 <br>
+                <br>
+                <b>Воскресенье</b><br>
+               с 12:00 до 16:00 <br></p>
+
               </p>
             </div>
-            <img class="relaunch__image" src="./images/relaunch/img2.png" alt="Materials">
+
           </article>
         </div>
       </section>

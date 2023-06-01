@@ -69,5 +69,8 @@
 @import '../blocks/catalog/prices/card_title.css';
 @import '../blocks/catalog/prices/card_add.css';
 @import '../blocks/catalog/card/cards.css';
-
-
+@import '../blocks/blog/benefits.css';
+@import '../blocks/blog/stcard.css';
+@import '../blocks/blog/stcard_title.css';
+@import '../blocks/blog/stcard_container.css';
+@import '../blocks/blog/blog_title.css';

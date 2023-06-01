@@ -1,0 +1,15 @@
+.stcard .stcard-title {
+  margin: 6px 10px 10px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  font-size: 19px;
+  line-height: 1.1;
+  color: #a18342;
+  text-align: center;
+}
+.stcard p {
+  font-size: 15px;
+  text-align: center;
+  margin: 0 0 10px 0;
+  line-height: 1.3;
+}
